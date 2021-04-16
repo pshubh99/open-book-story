@@ -1,20 +1,11 @@
 # StoryBooks
 
-> Create public and private stories from your life
 
 This app uses Node.js/Express/MongoDB with Google OAuth for authentication
 
-## Usage
+The app allows you to share your moments via a story post
 
-Add your mongoDB URI and Google OAuth credentials to the config.env file
+The app is deployed using heroku and the link is shared below
 
-```
-# Install dependencies
-npm install
+> https://open-story-book.herokuapp.com/ 
 
-# Run in development
-npm run dev
-
-# Run in production
-npm start
-```
