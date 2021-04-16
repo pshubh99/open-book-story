@@ -1,0 +1,55 @@
+p {
+  margin: 10px 0 !important;
+}
+
+.login-container {
+  width: 400px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.fa-small {
+  font-size: 16px !important;
+}
+
+.btn-float {
+  float: left;
+  margin-right: 10px;
+}
+
+.img-small {
+  width: 180px;
+}
+
+body {
+  display: flex !important;
+  min-height: 100vh !important;
+  flex-direction: column !important;
+}
+
+.page-footer{
+  margin-top: auto;
+}
+
+.socialIcon {
+  display: block;
+  margin: auto;
+  color: white !important;
+  margin-top: 10px;
+  font-weight: 200;
+}
+
+.text-center {
+  text-align: center!important;
+}
+
+.fa-2x {
+  font-size: 1.5 em !important;
+  margin: 0 .2em;
+  color: white;
+}
+
+.ddSir {
+  text-align: right;
+}
+
